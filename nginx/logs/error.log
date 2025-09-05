@@ -1,0 +1,17 @@
+2025/09/04 22:52:36 [error] 20000#9452: *1 CreateFile() "c:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/09/04 22:52:53 [error] 20000#9452: *1 "c:\nginx/html/api/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/ HTTP/1.1", host: "localhost"
+2025/09/04 22:52:56 [error] 20000#9452: *1 CreateFile() "c:\nginx/html/api" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /api HTTP/1.1", host: "localhost"
+2025/09/04 22:56:19 [notice] 18072#18076: signal process started
+2025/09/04 22:56:38 [notice] 22100#5616: signal process started
+2025/09/04 22:56:50 [error] 20404#17684: *4 CreateFile() "c:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/09/04 22:57:52 [emerg] 19272#6072: "server" directive is not allowed here in c:\nginx/conf/nginx.conf:2
+2025/09/04 22:57:59 [emerg] 19704#6996: "server" directive is not allowed here in c:\nginx/conf/nginx.conf:2
+2025/09/04 22:58:10 [emerg] 22004#13728: "server" directive is not allowed here in c:\nginx/conf/nginx.conf:2
+2025/09/04 22:58:14 [emerg] 19424#18068: "server" directive is not allowed here in c:\nginx/conf/nginx.conf:2
+2025/09/04 22:59:15 [emerg] 21980#21212: no "events" section in configuration
+2025/09/04 22:59:51 [warn] 8788#19912: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2025/09/04 22:59:58 [warn] 21680#3020: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2025/09/04 22:59:58 [notice] 21680#3020: signal process started
+2025/09/04 22:59:58 [warn] 17880#21016: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2025/09/04 23:01:12 [notice] 5300#19556: signal process started
+2025/09/04 23:02:16 [notice] 11384#18884: signal process started
